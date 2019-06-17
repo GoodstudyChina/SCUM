@@ -4,9 +4,8 @@ Features
     Box Esp
     Name Esp
     Distance Esp
-    Bike Esp
+    Zombie ESP
     
-![Screeshot](https://i.imgur.com/g0lwBoS.png)
 
 ### Links
 
